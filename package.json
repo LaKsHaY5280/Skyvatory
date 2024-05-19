@@ -1,13 +1,13 @@
 {
-  "name": "Skyvatory",
+  "name": "@skyvatory",
   "version": "0.1.0",
   "private": true,
   "type": "module",
   "dependencies": {
     "@ant-design/icons": "^5.0.1",
-    "@refinedev/antd": "^5.37.4",
+    "@refinedev/antd": "^5.38.1",
     "@refinedev/cli": "^2.16.21",
-    "@refinedev/core": "^4.47.1",
+    "@refinedev/core": "^4.49.2",
     "@refinedev/devtools": "^1.1.32",
     "@refinedev/kbar": "^1.3.6",
     "@refinedev/nestjs-query": "^1.1.1",
@@ -17,7 +17,8 @@
     "graphql-ws": "^5.9.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-router-dom": "^6.8.1"
+    "react-router-dom": "^6.8.1",
+    "refine": "^0.0.1-alpha"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "^5.0.2",
